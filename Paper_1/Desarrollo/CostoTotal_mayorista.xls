@@ -1,0 +1,1199 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Roberto Carlos Mendoza Matos</LastAuthor>
+  <Created>2020-07-08T15:30:44Z</Created>
+  <LastSaved>2020-07-15T17:21:53Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7455</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ActiveSheet>2</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2256456230080" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2256456230100" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2256456230120" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s79">
+   <Borders/>
+   <Font ss:FontName="Calibri"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s81">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s82">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s92">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s95">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s97">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s98">
+   <Font ss:FontName="Calibri"/>
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Mayorista">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="55" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="15">
+   <Column ss:Index="3" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:Index="6" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="68.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Column ss:Index="11" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="68.25"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:MergeAcross="2" ss:StyleID="m2256456230080"><Data
+      ss:Type="String">Levin, Lin y Chu</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2256456230100"><Data ss:Type="String">Im, Pesaran y Shin</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dfuller(1)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dfuller (2)</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dphillips</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"><Data ss:Type="String">Variable</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">AIC</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">SIC</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">HQC</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">AIC</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">SIC</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">HQC</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Anualizado</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Costos totales</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0007</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0002</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0002</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0045</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.5966</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0562</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s73"><Data ss:Type="String">Crédito 1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0526</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0526</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0526</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7324</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7338</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7338</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.4727</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.4657</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s73"><Data ss:Type="String">Credito2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2150</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2407</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2311</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7460</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7932</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7460</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.3207</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7765</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"><Data ss:Type="String">Costo laboral</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0672</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0971</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0602</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0248</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0002</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7028</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s73"><Data ss:Type="String">Costo fondeo</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0019</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0019</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0019</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9723</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9723</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9723</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9866</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9699</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s73"><Data ss:Type="String">Provisiones</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.4804</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.4804</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.4804</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9785</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9785</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.9785</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7519</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.8438</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s73"><Data ss:Type="String">Morosidad</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.1262</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.1092</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.1262</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7911</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7769</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.7911</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.1021</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.8857</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"><Data ss:Type="String">participacion 1 </Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0007</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0003</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0037</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0003</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0037</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0009</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2868</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"><Data ss:Type="String">participacion 2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0182</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0273</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0350</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.6003</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.1066</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2749</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.0000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.5732</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">0.2543</Data></Cell>
+   </Row>
+   <Row ss:Index="15" ss:AutoFitHeight="0">
+    <Cell ss:Index="5" ss:MergeAcross="3" ss:StyleID="m2256456230120"><Data
+      ss:Type="String">DFGLS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Dfuller</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Test </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">1% critical value</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">5% critical value</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">10% critical value</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s74"><Data ss:Type="String">Capital</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">0.43769999999999998</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">-2.2360000000000002</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">-3.5950000000000002</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">-2.7360000000000002</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">-2.4630000000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Raiz unitaria</Data></Cell>
+   </Row>
+   <Row ss:Index="22" ss:AutoFitHeight="0">
+    <Cell ss:Index="8"><Data ss:Type="String">Se rechaza al 5% en el rezago 11.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="8"><Data ss:Type="String">En el resto de rezagos no se rechaza la Ho.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="8"><Data ss:Type="String">Ho: Hay raíz unitaria</Data></Cell>
+   </Row>
+   <Row ss:Index="39" ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Capital_2</Data></Cell>
+   </Row>
+   <Row ss:Index="41" ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">Augmented Dickey-Fuller test for unit root         Number of obs   =        84</Data></Cell>
+   </Row>
+   <Row ss:Index="43" ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">                               &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;- Interpolated Dickey-Fuller &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">                  Test         1% Critical       5% Critical      10% Critical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">               Statistic           Value             Value             Value</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String"> Z(t)             -1.829            -4.075            -3.466            -3.160</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">MacKinnon approximate p-value for Z(t) = 0.6907</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">raíz unitari</Data></Cell>
+   </Row>
+   <Row ss:Index="54" ss:AutoFitHeight="0">
+    <Cell ss:Index="8"><Data ss:Type="String">No se rechaza la Ho</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="8"><Data ss:Type="String">Hay RU</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Costos">
+  <Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="84" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:AutoFitWidth="0" ss:Width="182.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="103.5" ss:Span="2"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="106.5"/>
+   <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="65.25"/>
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="65.25"/>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Costo Total</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Costo Total</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Costo Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">VARIABLES</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">(total)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">(cluster 1)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">(cluster 2)</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s81"><Data ss:Type="String">Modelo base</Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">error estándar</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Cluster 1</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">error estándar</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Cluster 2</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">error estándar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo laboral)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">0.998***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">1.001***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">1.013***</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s86"><Data ss:Type="String">Cmg crédito mayorista</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">0.00075</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">0.00047</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">0.00089</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">0.00069</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">0.00116</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">0.00078</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00347)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00469)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00624)</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s92"><Data ss:Type="String">Cmg otros</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0.00027</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0.00033</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0.00045</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0.00053</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0.00046</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">0.00035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de fondeo)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.0127***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.0266***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">0.0225***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00244)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00329)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00536)</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">0.0750</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">0.0890</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">0.0116</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">0.0148***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">0.0260***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0327***</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">0.0270</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">0.0450</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">0.0460</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00371)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00507)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00527)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.000452</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000379</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.00322*</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.000606)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000867)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00192)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(créditos mayoristas)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">0.00181**</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">0.00284***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.00925***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.000904)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00109)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00262)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(créditos otros)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">0.00205*</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">0.00339***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0374***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00105)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00125)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00868)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayoristas)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-2.53e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">1.94e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-4.28e-05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.52e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.96e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.75e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito otros)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">3.46e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">8.08e-07</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00215***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">(5.28e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.38e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000555)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayoristas)*ln(crédito otros)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">5.26e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">6.05e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000338***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(1.36e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.42e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000124)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo laboral)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">0.00609*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00709*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.00114</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00317)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00392)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00568)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de fondeo)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">4.16e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2.81e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-5.47e-06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(1.59e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.82e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(9.47e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de capital)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.000190*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000180</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000412***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.000111)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000174)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000131)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(provisiones)^2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-1.71e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-2.89e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">5.83e-06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.98e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(3.06e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.80e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo laboral)*ln(costo de fondeo)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.00236**</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00124</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.0168***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.000954)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00105)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00357)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo laboral)*ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.00132</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.00508**</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.0142***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">(0.00156)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00199)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00180)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo laboral)*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">0.000719***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000430*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00322***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.000237)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000232)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00118)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de fondeo)*ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-5.78e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000110*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000249***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(4.31e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.04e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.11e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de fondeo)*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-1.25e-05*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-1.45e-05*</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-6.18e-05**</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">(7.14e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(7.48e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.97e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(costo de capital)*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">5.60e-05**</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">6.95e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2.29e-05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.19e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.55e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(3.13e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayorista)*ln(costo laboral)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-2.44e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3.60e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000184***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(5.10e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.30e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.65e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayorista)*ln(costo fondeo)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-8.76e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-1.88e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000288***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.14e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.34e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.51e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayorista)*ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">2.91e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-2.05e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">5.91e-05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">(4.52e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.58e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(7.19e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito mayorista)*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">4.07e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3.31e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">4.50e-05*</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(5.99e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.31e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.40e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito otros)*ln(costo laboral)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.000137***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000196***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000967***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(4.54e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.10e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000216)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito otros)*ln(costo fondeo)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-8.92e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2.54e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(1.16e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.20e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000164)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito otros)*ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">0.000144***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000190***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000869***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">(4.18e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(4.75e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.000276)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ln(crédito otros)*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">2.40e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">4.10e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000127**</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(3.20e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(3.38e-06)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.81e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">0.0221***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.0236***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.0103***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.00136)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00188)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.00165)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia^2</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.000304***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.000301***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.000200***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.90e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(4.05e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.54e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia*ln(costo laboral)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-4.45e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-4.49e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000280***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(5.00e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(7.13e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(5.06e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencialn(costo de fondeo)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">0.000364***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000481***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">8.72e-05**</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(3.39e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(4.50e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(3.92e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia*ln(costo de capital)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-0.000303***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-0.000423***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000174***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(5.38e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(7.18e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(6.01e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia*ln(provisiones)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-1.70e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-1.35e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">1.82e-05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(1.29e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.72e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(1.62e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia*ln(crédito mayorista)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">7.54e-06</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-2.91e-05</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000229***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.25e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.54e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(3.44e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tendencia*ln(crédito otros)</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">-6.88e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">-9.07e-05***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.000524***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(2.17e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(2.57e-05)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(8.68e-05)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Test de Hausman</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">679.12</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">1123.36</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">237.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prob &gt; chi2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Observaciones</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">766</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">430</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">336</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">errores estándar robustos en paréntesis</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s96"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s97"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="3" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="3" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="3" ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="3" ss:StyleID="s76"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:ProtectedObjects>False</x:ProtectedObjects>
+   <x:ProtectedScenarios>False</x:ProtectedScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Indicador_mayorista">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="31" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:AutoFitWidth="0" ss:Width="138.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96.75" ss:Span="2"/>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Efectos fijos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Mercado mayorista</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Mercado mayorista</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Mercado mayorista</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">VARIABLES</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(total)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">(cluster 1)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">(cluster 2)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2013</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.173***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0460</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0385)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0433)</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2014</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.235***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0382</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">0.0124</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0545)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0383)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0256)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2015</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.178***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0272*</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0766***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0362)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0162)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0233)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2016</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.279***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.166***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.143***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0646)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0588)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0515)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2017</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.205***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.259*</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0138</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0373)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.136)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0731)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2018</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.314***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.184***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.386***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0308)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0477)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0559)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Indicador 2019</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">-0.368***</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.0610*</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">-0.607***</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0750)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0343)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0641)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Constante</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">1.531***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.457***</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2.219***</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">(0.0149)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.0213)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">(0.310)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Test de Hausman</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">97.80</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">141.95</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">162.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prob &gt; chi2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.00</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Observaciones</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">743</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">399</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">222</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Número de entidades</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rezagos </Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">R cuadrado</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.35</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.24</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">0.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Significancia dummies de tiempo</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Si</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Si</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Si</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">errores estándar robustos en paréntesis</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s97"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>6</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

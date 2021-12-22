@@ -1,0 +1,65 @@
+	(1)
+VARIABLES	Efectos Marginales de la probabilidad de solicitar crédito informal
+	
+presencia_sf	0.0709**
+	(0.0319)
+tiempo_ofi_2	0.000103**
+	(4.64e-05)
+estado_civil	0.0452*
+	(0.0266)
+lengua	-0.0327
+	(0.0390)
+edad	-0.00233
+	(0.00530)
+edad_2	7.75e-06
+	(6.33e-05)
+2.educ	0.0290
+	(0.0383)
+3.educ	0.0527
+	(0.0470)
+mujer	-0.0405
+	(0.0266)
+empleo_dep	-0.113***
+	(0.0286)
+1.ingresos	0.000816
+	(0.0331)
+2.ingresos	0.0785**
+	(0.0382)
+3.ingresos	0.0595
+	(0.0384)
+4.ingresos	-0.00467
+	(0.0498)
+activos_usa	-0.0284
+	(0.0256)
+tiene_prod_fin	-0.0310
+	(0.0326)
+impte_costo	0.00381
+	(0.0217)
+impte_tramite	-0.0148
+	(0.0212)
+cred_consumo	0.568***
+	(0.0422)
+cred_colateral	0.235***
+	(0.0398)
+calc_int	-0.000425
+	(0.0301)
+o.jefe_hogar	-
+	
+o.empleo	-
+	
+2o.estrato	-
+	
+3o.estrato	-
+	
+4o.estrato	-
+	
+o.exp_eadv	-
+	
+o.ahorro	-
+	
+o.plan_efec	-
+	
+	
+Observations	5,769
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

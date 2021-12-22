@@ -1,0 +1,57 @@
+	(1)
+VARIABLES	y1
+	
+tiempo_ofi_2	-0.00104***
+	(0.000385)
+estado_civil	0.0339
+	(0.0231)
+edad	0.0161***
+	(0.00425)
+edad_2	-0.000161***
+	(4.90e-05)
+2.educ	0.0336
+	(0.0265)
+3.educ	0.0503
+	(0.0331)
+mujer	0.0164
+	(0.0201)
+empleo_dep	-0.0644***
+	(0.0222)
+1.ingresos	0.0690***
+	(0.0247)
+2.ingresos	0.0732***
+	(0.0256)
+3.ingresos	0.0734***
+	(0.0264)
+4.ingresos	0.158***
+	(0.0423)
+activos_usa	0.0609***
+	(0.0192)
+tiene_prod_fin	0.133***
+	(0.0212)
+ahorro	0.0607**
+	(0.0258)
+cost_cred_impte	0.0523**
+	(0.0207)
+tramit_impte	0.0365
+	(0.0236)
+cred_consumo	0.120***
+	(0.0274)
+cred_colateral	0.349***
+	(0.0451)
+calc_int	0.0472**
+	(0.0235)
+2.estrato	0.0780***
+	(0.0236)
+3.estrato	0.0898***
+	(0.0272)
+4.estrato	0.107***
+	(0.0341)
+	
+Observations	3,899
+k_margins	0
+k_predict	1
+k_by	1
+k_at	1
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

@@ -1,0 +1,39 @@
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Costos!$c$2:$ax$99 colhead=1 na="#N/A" @freq m 2011m12
+
+' PARTICIPACIONES
+
+'minorista
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=PARSIN2!$D$2:$aO$110 colhead=1 na="#N/A" @freq m 2011m1
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=PARSIN2!$D$114:$aO$222 colhead=1 na="#N/A" @freq m 2011m1
+
+' Costo capital
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Capital!$D$3:$D$112 colhead=1 na="#N/A" @freq m 2010m12
+
+' Creditos Minoristas
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Creditos2!$c$2:$an$110 colhead=1 na="#N/A" @freq m 2011m1
+
+'Costo laboral
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Lab!$c$3:$ax$100 colhead=1 na="#N/A" @freq m 2011m12
+
+'Morosidad
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=MO1!$D$4:$AY$101 colhead=1 na="#N/A" @freq m 2011m12
+
+
+'Costo de fondeo
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Fon1!$c$3:$AY$100 colhead=1 na="#N/A" @freq m 2011m12
+
+'Provisiones
+
+import "C:\Users\Roberto Carlos\Desktop\SBS\Indicador_Bone\Costos_Totales_Final.xlsx" range=Prov1!$c$2:$AY$99 colhead=1 na="#N/A" @freq m 2011m12
+
+
+
+

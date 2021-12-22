@@ -1,0 +1,65 @@
+	(1)
+VARIABLES	Efectos Marginales de la probabilidad de necesitar crédito
+	
+o.presencia_sf	-
+	
+o.tiempo_ofi_2	-
+	
+estado_civil	-0.0191
+	(0.0213)
+lengua	0.0929***
+	(0.0330)
+edad	0.0136***
+	(0.00366)
+edad_2	-0.000166***
+	(4.09e-05)
+2.educ	-0.0383
+	(0.0242)
+3.educ	-0.129***
+	(0.0288)
+mujer	-0.00292
+	(0.0263)
+o.empleo_dep	-
+	
+1.ingresos	-0.00501
+	(0.0425)
+2.ingresos	-0.0228
+	(0.0433)
+3.ingresos	0.0234
+	(0.0444)
+4.ingresos	-0.0313
+	(0.0527)
+activos_usa	0.0262
+	(0.0212)
+o.tiene_prod_fin	-
+	
+o.impte_costo	-
+	
+o.impte_tramite	-
+	
+o.cred_consumo	-
+	
+o.cred_colateral	-
+	
+o.calc_int	-
+	
+jefe_hogar	-0.0216
+	(0.0219)
+empleo	0.101***
+	(0.0347)
+2.estrato	0.183***
+	(0.0315)
+3.estrato	0.140***
+	(0.0333)
+4.estrato	0.0963**
+	(0.0388)
+exp_eadv	0.0308**
+	(0.0127)
+ahorro	0.123***
+	(0.0261)
+plan_efec	-0.0514**
+	(0.0201)
+	
+Observations	5,898
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
